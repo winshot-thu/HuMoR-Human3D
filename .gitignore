@@ -1,0 +1,20 @@
+.vscode
+body_models
+checkpoints
+out
+dance.mp4
+get_ckpt.sh
+humor.png
+index.html
+LICENSE
+moonwalk.mp4
+# README.md
+requirements.txt
+run.sh
+tags
+test.py
+xinagyang780.mp4
+**/__pycache__
+**/**/__pycache__
+**/**/**/__pycache__
+**/**/**/**/__pycache__
